@@ -5,6 +5,7 @@
 请采用管理员身份运行本软件，否则将造成翻墙失败
 1、点击软件右击以管理身份运行
 ![](https://raw.githubusercontent.com/fslit/hosts/master/img/1.png)
+
 2、点击一键翻墙
 ![](https://raw.githubusercontent.com/fslit/hosts/master/img/2.png) 
 
